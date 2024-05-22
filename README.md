@@ -1,2 +1,2 @@
 # brunosegundod
-aluno do segundo d
+Ola sou um Aluno do Segundo D
